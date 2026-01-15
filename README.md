@@ -16,7 +16,7 @@ Both bots automatically monitor and copy trades from successful Polymarket trade
 
 ## ⚠️ Important Update Notice
 
-**Update Status:** The bot has been updated with Rust and Python implementations. There is no need to update if you already have a working version.
+**Update Status:** The bot has been updated finally. There is no need to update.
 
 **Performance:** The bot now makes transactions within 1 block with insider traders.
 
