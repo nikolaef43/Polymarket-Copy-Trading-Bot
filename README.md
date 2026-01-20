@@ -183,10 +183,11 @@ All transactions are verifiable on [PolygonScan](https://polygonscan.com) using 
 The Rust bot has been successfully tested and verified with real transactions on Polygon. Below are documented examples showing the bot copying trades from a target wallet to a copy wallet.
 
 This video shows me showing a client how to run a Rust copy trading bot using AnyDesk.
+#### Video1
 https://github.com/user-attachments/assets/2a58bd20-b7fd-4f38-8a64-711d521f7c6a
 
 
-
+#### Video2
 https://github.com/user-attachments/assets/81e50013-2249-49aa-9ed9-31778645ca01
 
 
